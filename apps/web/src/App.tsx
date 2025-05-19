@@ -74,7 +74,7 @@ function ImagesGallery() {
     </div>
   );
 }
-
+//
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
